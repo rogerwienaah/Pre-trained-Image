@@ -29,8 +29,9 @@ You need to use an already developed Python classifier to make sure the particip
 
 # Submission Results & Feedback 
 
-![image](https://github.com/rogerwienaah/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/assets/73090495/993b7362-7b5b-4a09-8217-dfaa2cda6d9c)
+![p1](https://github.com/rogerwienaah/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/assets/73090495/0f8e9a06-03f2-4e6a-83f2-0457d06bc850)
 
-![image](https://github.com/rogerwienaah/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/assets/73090495/edd2cafa-c777-4f03-a2a7-cc03a572eabd)
+![p4](https://github.com/rogerwienaah/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/assets/73090495/b85f1ce4-03e5-43fd-a92f-665131132a21)
+
 
 
